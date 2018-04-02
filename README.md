@@ -29,11 +29,10 @@ This app was tested ONLY on iOS 11.3
 
 ## Contributing
 
-Feel free to make contributions to UdaciCards App!
-
-* ⇄ Pull requests and ★ Stars are always welcome.
+You can develop *Authorization form* and *Firebase integration*, welcome to the project!
 
 ## License
 
 MIT
+
 
